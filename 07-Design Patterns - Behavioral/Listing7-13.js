@@ -1,5 +1,5 @@
 // Define a variable to use as a counter further down in this code
-var millisecondCount = 0;
+var millisecondCount = 0; 
 
 // Define a method to get the data returned by a GET request to a given URL. Returns a promise
 // to which callback functions can be hooked into using its then() method.
